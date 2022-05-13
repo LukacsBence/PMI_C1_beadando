@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+    <customer>
+        <customername>Lukács Bence</customername>
+        <phonenumber>705937770</phonenumber>
+        <brand>Alfa Romeo</brand>
+        <licensePlate>MTE421</licensePlate>
+        <yearOfManufacture>2003</yearOfManufacture>
+        <cost>49500</cost>
+        <problem>CHASSIS</problem>
+    </customer>
+</customers>
